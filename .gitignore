@@ -1,0 +1,14 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+cmake-build-debug
+.gitignore
+cmake-build-debug/CMakeFiles/3.12.0/CompilerIdC/tmp/
+cmake-build-debug/CMakeFiles/3.12.0/CompilerIdCXX/tmp/
+cmake-build-debug/CMakeFiles/CMakeTmp/
